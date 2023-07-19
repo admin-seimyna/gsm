@@ -1,6 +1,9 @@
 ## Komentarai
 Užduotis buvo tikrai ne pati lengviausia. Stengiausi dirbti su Jquery, nes kiek pamenu, tai Jūs dar neperėjot ant Vue. 
-Su **Vue** būčiau greičiau susisukęs, nes reikėjo nemažai prisiminti kaip ir ką daryti.
+Su **Vue** būčiau greičiau susisukęs, nes reikėjo nemažai prisiminti kaip ir ką daryti. Bet manau, kad pateikiau tiek kodo,kad būtų galima
+susidaryti bendrą vaizdą apie žinias.
+
+Šį projektą rašiau taip, kaip esu pratęs dirbti ir naudojau praktikas su kuriomis dirbu nuolatos.
 
 
 Darbai kurių neatlikau dėl laiko stokos:
@@ -16,6 +19,7 @@ Darbai kurių neatlikau dėl laiko stokos:
   - resources/js/Utilities/Gmap.js - dirbti su google maps
   - resources/js/Utilities/Table.js - apdoroto duomenų lentas
   - resources/js/Utilities/Device.js - kaip atskiras komponentas kurio reikėjo dirbant su map'u.
+- Panaudojau Middleware, Policy, FormRequest, ModelResource, Service.
 
 
 ## Instrukcija
